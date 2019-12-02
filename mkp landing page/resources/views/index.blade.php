@@ -79,7 +79,6 @@
 			        		 <ul>
 								<li class=""><a  href="#home">Beranda</a></li>
 								<li><a href="#about" class="scroll">Tentang</a></li>
-								<li><a href="#portfolio" class="scroll">Portfolio</a></li>
 								<li><a href="#blog" class="scroll">Kumpul Akrab</a></li>
 								<li class="last"><a href="#contact" class="scroll">Contact</a></li>
 								<div class="clearfix"> </div>
@@ -103,7 +102,7 @@
 		        <div class="slider_container">
 		            <div class="slide"> 
 		                <!-- Slide image -->
-		                    <img src="images/background.jpg" alt=""/>
+		                    <img src="images/4.jpg" alt=""/>
 		                <!-- /Slide image -->
 		                <!-- Texts container -->
 		                <div class="slide_content">
@@ -121,7 +120,7 @@
 		            </div>
 		            <!-- /Duplicate to create more slides -->
 		            <div class="slide">
-		                <img src="images/background1.jpg" alt=""/>
+		                <img src="images/4.jpg" alt=""/>
 		                 <div class="slide_content">
 		                    <div class="slide_content_wrap">
 		                        <!-- Text title -->
@@ -134,7 +133,7 @@
 		                </div>
 		            </div>
 		            <div class="slide">
-		                <img src="images/background1.jpg" alt=""/>
+		                <img src="images/4.jpg" alt=""/>
 		                 <div class="slide_content">
 		                    <div class="slide_content_wrap">
 		                        <!-- Text title -->
@@ -170,9 +169,9 @@
 		<div class="about-left pull-left">
 			<h4>Berbagai Kegiatan Mkp</h4>
 			<p> Multimedia Kampus Pink ikut serta dalam beberapa kegiatan dalam kampus maupun 
-			luar kampus dan mengikuti beberapa lomba Tingkat Nasional </p>
+			luar kampus dan mengikuti beberapa kegiatan lainya </p>
 			
-			<p><a href="https://www.instagram.com/mkpstikom/">READ MORE</a></p>
+			<p><a href="https://www.youtube.com/channel/UCsOhVMHcKVLqqrtn_Ei5USA"> Lebih lanjut </a></p>
 		</div>	
 		<div class="about-right pull-right">
 			<img src="images/about1.jpg" alt=""/>
@@ -197,188 +196,15 @@
 				</div>
 				<div class="col-md-4">	
 					<img src="images/computer.png" alt=""/>		
-			        <h4><a href="index.html">Desain Grafis</a></h4>
-			        <p>divisi yang bergerak di bidang Desain Graphic.</p>
+			        <h4><a href="index.html">Graphic design</a></h4>
+			        <p>divisi yang bergerak di bidang Desain Grafis.</p>
 				</div>
 			</div>	
 		</div>	
    </div>
 </div>
 
-<!-- portfolio -->
-<div class="portfilio" id="portfolio">
 
-<!-- portofolio video production -->
-     <div class="port-text">
-       		<h4>Divisi Video Production</h4>
-       		<p>Beberapa Karya Dari divisi Video Production.</p>
-     </div>	
-	 <div class="port">
-       		<ul>
-					<li><div class="view view-fourth">
-						     <img src="images/port1.jpg" alt=""/>
-							 <div class="mask">	
-							      <div class="border">                   
-									   <h2>PAPERCLIPS</h2>
-									   <span></span>
-									   <p class="a">BRANDING</p>		                       
-								  </div>                                                 
-							 </div>		
-						</div>	
-					</li>
-					<li><div class="view view-fourth">
-						     <img src="images/port2.jpg" alt=""/>
-							 <div class="mask">	
-							      <div class="border">                   
-									   <h2>PAPERCLIPS</h2>
-									   <span></span>
-									   <p class="a">BRANDING</p>		                       
-								  </div>                                                 
-							 </div>		
-						</div>	
-					</li>
-					<li><div class="view view-fourth">
-						     <img src="images/port3.jpg" alt=""/>
-							 <div class="mask">	
-							      <div class="border">                   
-									   <h2>PAPERCLIPS</h2>
-									   <span></span>
-									   <p class="a">BRANDING</p>		                       
-								  </div>                                                 
-							 </div>		
-						</div>	
-					</li>
-					<li><div class="view view-fourth">
-						     <img src="images/port4.jpg" alt=""/>
-							 <div class="mask">	
-							      <div class="border">                   
-									   <h2>PAPERCLIPS</h2>
-									   <span></span>
-									   <p class="a">BRANDING</p>		                       
-								  </div>                                                 
-							 </div>		
-						</div>	
-					</li>
-			</ul>
-			<p><a href="https://www.instagram.com/mkpstikom/">Lihat Semua<span> </span></a></p>	
-			<br>	
-     </div>
-<!-- portofolio video production -->
-
-<!-- portofolio photoghraphy -->
-     <div class="port-text">
-       		<h4>Divisi Photoghrapy</h4>
-       		<p>Beberapa Karya Dari Divisi Photoghrapy.</p>
-     </div>	
-	 <div class="port">
-       		<ul>
-					<li><div class="view view-fourth">
-						     <img src="images/port1.jpg" alt=""/>
-							 <div class="mask">	
-							      <div class="border">                   
-									   <h2>PAPERCLIPS</h2>
-									   <span></span>
-									   <p class="a">BRANDING</p>		                       
-								  </div>                                                 
-							 </div>		
-						</div>	
-					</li>
-					<li><div class="view view-fourth">
-						     <img src="images/port2.jpg" alt=""/>
-							 <div class="mask">	
-							      <div class="border">                   
-									   <h2>PAPERCLIPS</h2>
-									   <span></span>
-									   <p class="a">BRANDING</p>		                       
-								  </div>                                                 
-							 </div>		
-						</div>	
-					</li>
-					<li><div class="view view-fourth">
-						     <img src="images/port3.jpg" alt=""/>
-							 <div class="mask">	
-							      <div class="border">                   
-									   <h2>PAPERCLIPS</h2>
-									   <span></span>
-									   <p class="a">BRANDING</p>		                       
-								  </div>                                                 
-							 </div>		
-						</div>	
-					</li>
-					<li><div class="view view-fourth">
-						     <img src="images/port4.jpg" alt=""/>
-							 <div class="mask">	
-							      <div class="border">                   
-									   <h2>PAPERCLIPS</h2>
-									   <span></span>
-									   <p class="a">BRANDING</p>		                       
-								  </div>                                                 
-							 </div>		
-						</div>	
-					</li>
-			</ul>
-			<p><a href="https://www.instagram.com/mkpphotograpy/">Lihat Semua<span> </span></a></p>	
-			<br>
-     </div>
-<!-- portofolio photoghraphy -->
-
-<!-- portofolio desain grafis -->
-     <div class="port-text">
-       		<h4>Divisi Desain grafis</h4>
-       		<p>Beberapa Karya Dari divisi Desain Grafis.</p>
-     </div>
-     <div class="port">
-       		<ul>
-					<li><div class="view view-fourth">
-						     <img src="images/port1.jpg" alt=""/>
-							 <div class="mask">	
-							      <div class="border">                   
-									   <h2>PAPERCLIPS</h2>
-									   <span></span>
-									   <p class="a">BRANDING</p>		                       
-								  </div>                                                 
-							 </div>		
-						</div>	
-					</li>
-					<li><div class="view view-fourth">
-						     <img src="images/port2.jpg" alt=""/>
-							 <div class="mask">	
-							      <div class="border">                   
-									   <h2>PAPERCLIPS</h2>
-									   <span></span>
-									   <p class="a">BRANDING</p>		                       
-								  </div>                                                 
-							 </div>		
-						</div>	
-					</li>
-					<li><div class="view view-fourth">
-						     <img src="images/port3.jpg" alt=""/>
-							 <div class="mask">	
-							      <div class="border">                   
-									   <h2>PAPERCLIPS</h2>
-									   <span></span>
-									   <p class="a">BRANDING</p>		                       
-								  </div>                                                 
-							 </div>		
-						</div>	
-					</li>
-					<li><div class="view view-fourth">
-						     <img src="images/port4.jpg" alt=""/>
-							 <div class="mask">	
-							      <div class="border">                   
-									   <h2>PAPERCLIPS</h2>
-									   <span></span>
-									   <p class="a">BRANDING</p>		                       
-								  </div>                                                 
-							 </div>		
-						</div>	
-					</li>
-			</ul>	
-			<p><a href="https://www.instagram.com/mkpstikom/">Lihat Semua<span> </span></a></p>
-     </div>
-<!-- portofolio desain grafis -->
-
-</div>
 
 <!-- start kumpul akrab -->
 	<div class="blog" id="blog">
@@ -388,47 +214,47 @@
 						    <div class="col-md-12">			
 						        <h3>Kumpul Akrab</h3>
 						        <span></span>
-						        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum Lorem Ipsum has been.</p>
+						        <p>Kumpul Akrab UKM Multimedia Kampus Pink  .</p>
 							</div>
 						</div>		
 				</div>	
 				 <div class="blog-bottom">
 			        <div class="blog-left">
-			        	<img src="images/camera.jpg" alt=""/>
+			        	<img src="images/2.jpg" alt=""/>
 			        </div>
 			        <span class="circle"></span>
 			         <div class="blog-right">       	
-			        	<h6>10 April 2014</h6>
-			        	<h4>Printing and typesetting industry</h4>
-			        	<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled</p>
+			        	<h6>15 oktober 2017</h6>
+			        	<h4>KURAB VOL 1  </h4>
+			        	<P> acara di laksanakan di Kampus Stikom</P>
 			        </div>
 			        <div class="clearfix"></div>
 		         </div>
 		         <div class="blog-bottom">
 			        <div class="blog-left">
-			        	<h6>10 April 2014</h6>
-			        	<h4>Printing and typesetting industry</h4>
-			        	<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled</p>
-			        </div>
+			        	<h6>15 April 2018</h6>
+						<h4>KURAB VOL 2  </h4>
+			        	<P> acara di laksanakan di Taman Hutan Kota Muhammad Sabki Mayang Kota Jambi</P>
+					</div>
 			        <span class="circle"></span>
 		         <div class="blog-right">       	
-		        	<img src="images/camera.jpg" alt=""/>
+		        	<img src="images/3	.jpg" alt=""/>
 		        </div>
 		        <div class="clearfix"></div>
 	         </div>
 	          <div class="blog-bottom">
 		        <div class="blog-left last">
-		        	<img src="images/camera.jpg" alt=""/>
+		        	<img src="images/5.jpg" alt=""/>
 		        </div>
 		        <span class="circle"> </span>
 		        <div class="blog-right">       	
-		        	<h6>10 April 2014</h6>
-		        	<h4>Printing and typesetting industry</h4>
-		        	<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled</p>
-		        </div>
+					<h6>27 November 2019 </h6>
+					<h4>KURAB VOL 3  </h4>	
+					<P> acara di laksanakan di Taman Hutan Kota Muhammad Sabki Mayang Kota Jambi</P>
+				</div>
 		        	<div class="clearfix"> </div>
 		         </div>
-		        <div class="post"><a href="#">All  Posts</a></div>
+		        <div class="post"><a href="https://www.instagram.com/mkpstikom/">All  Posts</a></div>
 			</div>
 	</div>
 <!-- kumpul akrab -->
@@ -452,51 +278,23 @@
 <!---End-contact---->
 <div class="footer-top">
 	<div class="container">
-		<div class="row">
+		<div class="row">	
 			<div class="col-md-3">
-				<a href="index.html"><img src="images/logo1.png" alt=""/></a>
-			    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry</p>
-	        	<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled</p>
+				<h4>Youtube</h4>
+				<div class="foot">
+					<span>lihat karya Multimedia Kampus Pink dong di chanel Youtube di bawah ini</span>
+					<p><a href="https://www.youtube.com/channel/UCsOhVMHcKVLqqrtn_Ei5USA">Multimedia Kampus Pink</a></p>
+				</div>
+				
 			</div>	
 			<div class="col-md-3">
-				<h4>RECENT POSTS</h4>
+				<h4>instagram </h4>
 				<div class="foot">
-					<span>24 march 2014</span>
-					<p><a href="#">Printing and typesetting industry</a></p>
-				</div>
-				<div class="foot">
-					<span>24 march 2014</span>
-					<p><a href="#">Printing and typesetting industry</a></p>
-				</div>
-				<div class="foot">
-					<span>24 march 2014</span>
-					<p><a href="#">Printing and typesetting industry</a></p>
+					<span>ikuti Perkembangan Multimedia Kampus Pink di link dibawah ini</span>
+					<p><a href="https://www.instagram.com/mkpstikom/">Multimedia Kampus Pink</a></p>
 				</div>
 			</div>	
-			<div class="col-md-3">
-				<h4>TWITTER FEEDS</h4>
-				<div class="foot">
-					<span>industry@info.com</span>
-					<p><a href="#">Printing and typesetting industry</a></p>
-				</div>
-				<div class="foot">
-					<span>industry@info.com</span>
-					<p><a href="#">Printing and typesetting industry</a></p>
-				</div>
-				<div class="foot">
-					<span>industry@info.com</span>
-					<p><a href="#">Printing and typesetting industry</a></p>
-				</div>
-			</div>	
-			<div class="col-md-3">
-				<h4 class="a">RECENT POSTS</h4>
-	        	<p class="a">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled</p>
-			    <address>
-			    	<p class="b">Typesetting industry</p>
-			    	<p class="b">Lorem Ipsum has</p>
-			    	<p class="b">Phone : 466,348457,7459</p>
-			    </address>
-			</div>	
+				
 		</div>
 	</div>
 </div>
@@ -505,7 +303,7 @@
 		<div class="row">
  			<div class="col-md-12">	
 				<div class="copy-right">
-					<p>&#169 Copyright 2014 All Rights Reserved  Template <a href="http://w3layouts.com/">  w3layouts.com</a></p>	
+					<p>Multimedia Kampus Pink</p>	
 				</div>	
 			</div>
 		</div>
