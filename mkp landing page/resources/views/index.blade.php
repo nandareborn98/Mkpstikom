@@ -238,13 +238,13 @@
 					</div>
 			        <span class="circle"></span>
 		         <div class="blog-right">       	
-		        	<img src="images/3	.jpg" alt=""/>
+		        	<img src="images/3.jpg" alt=""/>
 		        </div>
 		        <div class="clearfix"></div>
 	         </div>
 	          <div class="blog-bottom">
 		        <div class="blog-left last">
-		        	<img src="images/5.jpg" alt=""/>
+		        	<img src="images/5.png" alt=""/>
 		        </div>
 		        <span class="circle"> </span>
 		        <div class="blog-right">       	
